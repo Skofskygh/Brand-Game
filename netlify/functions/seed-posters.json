@@ -1,0 +1,2264 @@
+[
+ {
+  "title": "Mental Health Awareness Day",
+  "context": "A student-life event poster from May 2025, shared on campus and on social media. It has 13 areas worth a closer look. Most need fixing, but a couple are done right.",
+  "image": "poster.jpg",
+  "imageId": "",
+  "status": "live",
+  "featured": true,
+  "spots": [
+   {
+    "id": "logo",
+    "label": "Ashesi logo",
+    "tag": "Logo",
+    "rects": [
+     {
+      "x": 4.72,
+      "y": 2.96,
+      "w": 14.29,
+      "h": 8.33
+     }
+    ],
+    "q": "You found the Ashesi logo. What should happen here?",
+    "opts": [
+     {
+      "t": "Keep the secondary logo. It suits a student-life event. Just confirm it was placed from the official file, not retyped.",
+      "ok": true
+     },
+     {
+      "t": "Swap it for the Ashesi seal to give the event more authority.",
+      "ok": false
+     },
+     {
+      "t": "Recolor it green so it matches the headline.",
+      "ok": false
+     },
+     {
+      "t": "Replace it with the primary logo. The secondary logo is never allowed on posters.",
+      "ok": false
+     }
+    ],
+    "why": "Trick question: this one is mostly right. The secondary logo is approved for campus culture and student-life events, and a white single-color logo on a plain color block is allowed. The wordmark looks thinner than the master artwork, though, so check it came from the official file.",
+    "rule": "Logo › Where the secondary logo may be used; Logo › Do not modify",
+    "fix": "Mostly correct. Confirm the official file was used.",
+    "kind": "good"
+   },
+   {
+    "id": "header",
+    "label": "Organizer names",
+    "tag": "Lockups",
+    "rects": [
+     {
+      "x": 8.65,
+      "y": 12.22,
+      "w": 57.54,
+      "h": 4.81
+     }
+    ],
+    "q": "Three group names in capitals sit right under the logo. What's the fix?",
+    "opts": [
+     {
+      "t": "Move them to a simple “Hosted by” line further down, and spell out what CCA, ASC and CCAPS stand for.",
+      "ok": true
+     },
+     {
+      "t": "Turn it into an official lockup with the Ashesi logo.",
+      "ok": false
+     },
+     {
+      "t": "Make it bigger so every organizer gets credit.",
+      "ok": false
+     },
+     {
+      "t": "Leave it. Acronyms save space and everyone on campus knows them.",
+      "ok": false
+     }
+    ],
+    "why": "Placed under the logo, the names read like a lockup. Student bodies like the ASC can't use lockups, and new lockups need University Communications Office approval. Unexplained acronyms also shut out first-years and visitors.",
+    "rule": "Lockups › How lockups should not be used; Writing › Reduce jargon",
+    "fix": "Move to a “Hosted by” line and spell out names.",
+    "kind": "fix"
+   },
+   {
+    "id": "title",
+    "label": "Headline",
+    "tag": "Typography",
+    "rects": [
+     {
+      "x": 3.67,
+      "y": 18.33,
+      "w": 50.33,
+      "h": 10.93
+     }
+    ],
+    "q": "Look at the headline. What would improve it?",
+    "opts": [
+     {
+      "t": "Set it at one consistent size in an Ashesi color, and drop the all-caps shouting.",
+      "ok": true
+     },
+     {
+      "t": "Add a drop shadow so it pops off the purple.",
+      "ok": false
+     },
+     {
+      "t": "Switch to the Athletic typeface for a bolder look.",
+      "ok": false
+     },
+     {
+      "t": "Make “AWARENESS” even bigger than it already is.",
+      "ok": false
+     }
+    ],
+    "why": "Two sizes split the headline in two, and the green isn't an Ashesi color. Athletic is only for clothing merchandise.",
+    "rule": "Typography › Respect hierarchy; Athletic is for clothing only",
+    "fix": "One size, Ashesi color, no all-caps.",
+    "kind": "fix"
+   },
+   {
+    "id": "theme",
+    "label": "Theme line",
+    "tag": "Typography",
+    "rects": [
+     {
+      "x": 3.41,
+      "y": 29.63,
+      "w": 42.73,
+      "h": 8.52
+     }
+    ],
+    "q": "The theme is in bold italic capitals. What's the right move?",
+    "opts": [
+     {
+      "t": "Set it smaller, in regular weight and sentence case, clearly below the headline.",
+      "ok": true
+     },
+     {
+      "t": "Make the theme the headline instead.",
+      "ok": false
+     },
+     {
+      "t": "Underline it as well for extra emphasis.",
+      "ok": false
+     },
+     {
+      "t": "Add a third typeface to set it apart.",
+      "ok": false
+     }
+    ],
+    "why": "Bold italic caps compete with the headline for attention. The poster already uses too many styles, and the guidelines limit designs to one or two typefaces.",
+    "rule": "Typography › Respect hierarchy; Be consistent within a piece",
+    "fix": "Smaller, regular weight, sentence case.",
+    "kind": "fix"
+   },
+   {
+    "id": "bullets",
+    "label": "Topic list",
+    "tag": "Layout",
+    "rects": [
+     {
+      "x": 3.15,
+      "y": 39.26,
+      "w": 33.81,
+      "h": 19.26
+     }
+    ],
+    "q": "Scan this list carefully. What needs fixing?",
+    "opts": [
+     {
+      "t": "“Relationships” is indented further than the other bullets. Line it up.",
+      "ok": true
+     },
+     {
+      "t": "The list should be numbered.",
+      "ok": false
+     },
+     {
+      "t": "Center the list under the theme.",
+      "ok": false
+     },
+     {
+      "t": "Give each bullet a different color.",
+      "ok": false
+     }
+    ],
+    "why": "One bullet is pushed out of line. Small slips like this make the whole piece feel careless.",
+    "rule": "The medium matters › Focus on consistency",
+    "fix": "Re-align the “Relationships” bullet.",
+    "kind": "fix"
+   },
+   {
+    "id": "photo",
+    "label": "Campus photo",
+    "tag": "Photography",
+    "rects": [
+     {
+      "x": 54.0,
+      "y": 17.59,
+      "w": 46.0,
+      "h": 40.93
+     }
+    ],
+    "q": "What about the campus photo?",
+    "opts": [
+     {
+      "t": "It's the most on-brand thing here. Give it more room and drop the swoosh frame around it.",
+      "ok": true
+     },
+     {
+      "t": "Replace it with a stock photo of a smiling student.",
+      "ok": false
+     },
+     {
+      "t": "Add a purple filter so it matches the background.",
+      "ok": false
+     },
+     {
+      "t": "Remove it to make room for more text.",
+      "ok": false
+     }
+    ],
+    "why": "Real Ashesi students, gathered in a real Ashesi space. That's exactly what the photography section asks for. Let it lead the design.",
+    "rule": "Photography › People first; Shoot in Ashesi's environment; Avoid heavy stylized edits",
+    "fix": "Keep it and make it the hero.",
+    "kind": "good"
+   },
+   {
+    "id": "stock",
+    "label": "Stock images",
+    "tag": "Photography",
+    "rects": [
+     {
+      "x": 14.15,
+      "y": 59.07,
+      "w": 17.56,
+      "h": 12.41
+     },
+     {
+      "x": 40.37,
+      "y": 59.07,
+      "w": 18.22,
+      "h": 12.41
+     },
+     {
+      "x": 67.89,
+      "y": 59.07,
+      "w": 18.87,
+      "h": 12.41
+     }
+    ],
+    "q": "The three circular images are stock photos. What's the fix?",
+    "opts": [
+     {
+      "t": "Swap them for real photos from Ashesi wellness sessions, or drop them and let the campus photo lead.",
+      "ok": true
+     },
+     {
+      "t": "Keep them. They explain each activity clearly.",
+      "ok": false
+     },
+     {
+      "t": "Add more stock photos so every activity has one.",
+      "ok": false
+     },
+     {
+      "t": "Give them brighter borders so they stand out.",
+      "ok": false
+     }
+    ],
+    "why": "Posed stock images aren't Ashesi moments, and two of the three don't reflect the community the event is for.",
+    "rule": "Photography › Authentic representation; Representation and inclusion",
+    "fix": "Use real Ashesi photos or drop them.",
+    "kind": "fix"
+   },
+   {
+    "id": "typo",
+    "label": "Forum label",
+    "tag": "Proofreading",
+    "rects": [
+     {
+      "x": 38.53,
+      "y": 72.96,
+      "w": 24.12,
+      "h": 5.0
+     }
+    ],
+    "q": "Read this activity name closely. What's wrong?",
+    "opts": [
+     {
+      "t": "“Heath” should be “Health”.",
+      "ok": true
+     },
+     {
+      "t": "“Forum” should be “Fora”.",
+      "ok": false
+     },
+     {
+      "t": "It should be in all caps like the headline.",
+      "ok": false
+     },
+     {
+      "t": "Nothing. It's fine.",
+      "ok": false
+     }
+    ],
+    "why": "A spelling mistake in the name of the main event. This alone should have stopped the poster from going to print.",
+    "rule": "Writing › Be specific and accurate",
+    "fix": "Fix “Heath” to “Health”.",
+    "kind": "fix"
+   },
+   {
+    "id": "times",
+    "label": "Venues and times",
+    "tag": "Consistency",
+    "rects": [
+     {
+      "x": 12.58,
+      "y": 78.33,
+      "w": 79.69,
+      "h": 4.63
+     }
+    ],
+    "q": "How should the times be written?",
+    "opts": [
+     {
+      "t": "Pick one style and use it everywhere, for example 11:00 a.m.–2:30 p.m.",
+      "ok": true
+     },
+     {
+      "t": "Use 24-hour time for some and 12-hour time for others.",
+      "ok": false
+     },
+     {
+      "t": "Remove the times. People will figure it out.",
+      "ok": false
+     },
+     {
+      "t": "Write them out in words, like “eleven o'clock”.",
+      "ok": false
+     }
+    ],
+    "why": "The poster mixes “AM” and “pm”, leaves out the space before AM/PM, and uses hyphens where ranges need an en dash.",
+    "rule": "Writing › Maintain consistency across channels",
+    "fix": "One time format, used everywhere.",
+    "kind": "fix"
+   },
+   {
+    "id": "save",
+    "label": "Save The Date",
+    "tag": "Copy",
+    "rects": [
+     {
+      "x": 71.43,
+      "y": 83.15,
+      "w": 26.61,
+      "h": 6.3
+     }
+    ],
+    "q": "“Save The Date” sits above the date. What's the better choice?",
+    "opts": [
+     {
+      "t": "Use “Join us” (the full program is already here) and drop the capital “The”.",
+      "ok": true
+     },
+     {
+      "t": "Keep it. Every event poster needs “Save the Date”.",
+      "ok": false
+     },
+     {
+      "t": "Change it to “SAVE THE DATE” in capitals.",
+      "ok": false
+     },
+     {
+      "t": "Only remove the calendar icon.",
+      "ok": false
+     }
+    ],
+    "why": "“Save the date” is for early announcements that come before the details. This poster already gives the full schedule, so a warm invitation fits better. The time line under it is also cramped and half hidden.",
+    "rule": "Tone › Student communications: warm, encouraging, direct",
+    "fix": "Say “Join us” and fix the capitals.",
+    "kind": "fix"
+   },
+   {
+    "id": "date",
+    "label": "Event date",
+    "tag": "American English",
+    "rects": [
+     {
+      "x": 71.43,
+      "y": 89.44,
+      "w": 26.61,
+      "h": 3.52
+     }
+    ],
+    "q": "How should the date be written?",
+    "opts": [
+     {
+      "t": "May 30, 2025",
+      "ok": true
+     },
+     {
+      "t": "30 May, 2025 (it's correct as is)",
+      "ok": false
+     },
+     {
+      "t": "30th May 2025",
+      "ok": false
+     },
+     {
+      "t": "05/30/25",
+      "ok": false
+     }
+    ],
+    "why": "Ashesi writes in American English, which puts the month first and the comma after the day. “30 May, 2025” mixes two styles.",
+    "rule": "Typography › American English is used in all brand writing",
+    "fix": "Write it as May 30, 2025.",
+    "kind": "fix"
+   },
+   {
+    "id": "sponsby",
+    "label": "Sponsored By :",
+    "tag": "Proofreading",
+    "rects": [
+     {
+      "x": 1.05,
+      "y": 86.3,
+      "w": 20.58,
+      "h": 3.7
+     }
+    ],
+    "q": "Which version of this label is correct?",
+    "opts": [
+     {
+      "t": "Sponsored by:",
+      "ok": true
+     },
+     {
+      "t": "Sponsored By :",
+      "ok": false
+     },
+     {
+      "t": "SPONSORED BY :",
+      "ok": false
+     },
+     {
+      "t": "Sponsored-by",
+      "ok": false
+     }
+    ],
+    "why": "No space before a colon, and no capital on “by”.",
+    "rule": "Writing › Clear, plain language",
+    "fix": "Write “Sponsored by:”.",
+    "kind": "fix"
+   },
+   {
+    "id": "sponsors",
+    "label": "Sponsor names",
+    "tag": "Partners",
+    "rects": [
+     {
+      "x": 1.05,
+      "y": 91.48,
+      "w": 57.14,
+      "h": 7.41
+     }
+    ],
+    "q": "How should the sponsors be credited?",
+    "opts": [
+     {
+      "t": "On a quieter, smaller credits line in sentence case, with each official name checked.",
+      "ok": true
+     },
+     {
+      "t": "Bigger and bolder, to thank them properly.",
+      "ok": false
+     },
+     {
+      "t": "Add their logos larger than the Ashesi logo.",
+      "ok": false
+     },
+     {
+      "t": "Move them to the top, next to the Ashesi logo.",
+      "ok": false
+     }
+    ],
+    "why": "Two names in bold capitals over a green band take up about 15% of the poster. Sponsors deserve credit, but they shouldn't compete with the message. Also confirm the Ghana authority's official name.",
+    "rule": "Advancement and partner communications › Grounded, transparent; Keep it simple",
+    "fix": "Smaller credits line, names checked.",
+    "kind": "fix"
+   }
+  ],
+  "big": [
+   {
+    "id": "b1",
+    "label": "Color palette",
+    "tag": "Color",
+    "q": "The poster is mostly purple and green. What's the right color approach?",
+    "opts": [
+     {
+      "t": "Build it from Ashesi colors (for example Turquoise, Apricot and Slate) and keep green only for the small ribbon.",
+      "ok": true
+     },
+     {
+      "t": "Purple is fine. It's a common wellness color.",
+      "ok": false
+     },
+     {
+      "t": "Formal Ashesi Red and Black only, every time.",
+      "ok": false
+     },
+     {
+      "t": "Use all ten brand colors for energy.",
+      "ok": false
+     }
+    ],
+    "why": "Neither purple nor green is in the Ashesi palette. Student-facing pieces can use the casual secondary colors. The cause can still be shown with the ribbon icon.",
+    "rule": "Colors › Primary and secondary palette; Color usage chart",
+    "fix": "Use Ashesi colors and keep green for the ribbon only."
+   },
+   {
+    "id": "b2",
+    "label": "Color count",
+    "tag": "Color",
+    "q": "How many colors should one piece use?",
+    "opts": [
+     {
+      "t": "No more than three",
+      "ok": true
+     },
+     {
+      "t": "Two, always",
+      "ok": false
+     },
+     {
+      "t": "Up to five",
+      "ok": false
+     },
+     {
+      "t": "No limit if they're on-brand",
+      "ok": false
+     }
+    ],
+    "why": "The guidelines' rule of thumb is no more than three at a time. This poster uses at least five.",
+    "rule": "Colors › Don't use more than three colors at a time",
+    "fix": "Three colors at most."
+   },
+   {
+    "id": "b3",
+    "label": "Layout",
+    "tag": "Layout",
+    "q": "What's the biggest layout problem?",
+    "opts": [
+     {
+      "t": "Too many competing shapes and almost no breathing room.",
+      "ok": true
+     },
+     {
+      "t": "The text is too large.",
+      "ok": false
+     },
+     {
+      "t": "There aren't enough decorative shapes.",
+      "ok": false
+     },
+     {
+      "t": "The logo sits too far from the edge.",
+      "ok": false
+     }
+    ],
+    "why": "A purple wave, a green wave, a yellow swoosh, three circles and two logos all fight for attention, and the text at the bottom nearly touches the edges.",
+    "rule": "The medium matters › Be generous with space; Think bold, not busy",
+    "fix": "Remove shapes and add white space."
+   },
+   {
+    "id": "b4",
+    "label": "Help contact",
+    "tag": "Tone",
+    "q": "The poster lists suicide prevention as a topic. What's missing?",
+    "opts": [
+     {
+      "t": "A clear way to reach the counseling service: who, where and how.",
+      "ok": true
+     },
+     {
+      "t": "A sponsor logo.",
+      "ok": false
+     },
+     {
+      "t": "A QR code to the event playlist.",
+      "ok": false
+     },
+     {
+      "t": "A bigger theme line.",
+      "ok": false
+     }
+    ],
+    "why": "Someone who reads this and needs support has nowhere to go. A human-centered brand puts the help path front and center.",
+    "rule": "Tone › Human-centered; Writing › Lead with what matters",
+    "fix": "Add counseling contact details."
+   },
+   {
+    "id": "b5",
+    "label": "Typefaces",
+    "tag": "Typography",
+    "q": "Which type setup suits this student-facing poster?",
+    "opts": [
+     {
+      "t": "Poppins throughout, in one or two weights.",
+      "ok": true
+     },
+     {
+      "t": "Athletic for the headline.",
+      "ok": false
+     },
+     {
+      "t": "Four different fonts for variety.",
+      "ok": false
+     },
+     {
+      "t": "Garamond, Candara and Poppins together.",
+      "ok": false
+     }
+    ],
+    "why": "Poppins is the brand's digital, student-facing face. The guidelines limit a piece to one or two typefaces, and Athletic is for clothing only.",
+    "rule": "Typography › Guiding principles for font choice",
+    "fix": "Poppins, one or two weights."
+   }
+  ],
+  "createdAt": "2026-10-29T15:30:00.000Z",
+  "updatedAt": "2026-10-29T15:30:00.000Z",
+  "id": "mha-2025"
+ },
+ {
+  "title": "Time with the Counselors and Coach",
+  "context": "A square social post for a student wellness session run by the Office of Students and Community Affairs. Some of it is done well. Find the good and the bad.",
+  "image": "posters/counselors.jpg",
+  "spots": [
+   {
+    "id": "c-logo",
+    "kind": "fix",
+    "label": "Ashesi logo",
+    "tag": "Logo",
+    "rects": [
+     {
+      "x": 13.89,
+      "y": 1.67,
+      "w": 16.48,
+      "h": 5.19
+     }
+    ],
+    "q": "The white logo sits on a light beige background. What should change?",
+    "opts": [
+     {
+      "t": "Use the full-color or black version so it stands out on beige, with clear space around it.",
+      "ok": true
+     },
+     {
+      "t": "Nothing. White always looks clean.",
+      "ok": false
+     },
+     {
+      "t": "Make it larger so it overlaps the red curve.",
+      "ok": false
+     },
+     {
+      "t": "Add a drop shadow behind it.",
+      "ok": false
+     }
+    ],
+    "why": "A white logo on beige nearly disappears, and it brushes the red and turquoise curve. Never place the logo on a low-contrast or busy background. On light backgrounds, use the colored or black version.",
+    "rule": "Logo › Do not place on busy or low-contrast backgrounds",
+    "fix": "Use the color or black logo with clear space."
+   },
+   {
+    "id": "c-office",
+    "kind": "fix",
+    "label": "Office name",
+    "tag": "Lockups",
+    "rects": [
+     {
+      "x": 72.41,
+      "y": 3.33,
+      "w": 19.26,
+      "h": 3.7
+     }
+    ],
+    "q": "The office name sits in the corner opposite the logo, in bold capitals. What's the right approach?",
+    "opts": [
+     {
+      "t": "Use the office's approved lockup: the horizontal logo plus the office name in Poppins SemiBold.",
+      "ok": true
+     },
+     {
+      "t": "Keep it. Any office can type its name beside the logo.",
+      "ok": false
+     },
+     {
+      "t": "Move the office name inside the logo.",
+      "ok": false
+     },
+     {
+      "t": "Set it in a script font so it stands apart.",
+      "ok": false
+     }
+    ],
+    "why": "Logo in one corner and office name in the other is how a lockup is built, but this one is improvised: the stacked logo and an off-brand bold typeface. Official offices should use their approved lockup. New ones go through the University Communications Office.",
+    "rule": "Lockups › Always use the approved lockup structure",
+    "fix": "Use the approved office lockup."
+   },
+   {
+    "id": "c-title",
+    "kind": "fix",
+    "label": "Headline",
+    "tag": "Typography",
+    "rects": [
+     {
+      "x": 18.98,
+      "y": 10.0,
+      "w": 65.28,
+      "h": 11.85
+     }
+    ],
+    "q": "Look at how the headline breaks across lines. What would improve it?",
+    "opts": [
+     {
+      "t": "Rebalance it into two even lines in sentence case, for example “Time with the counselors and coach”.",
+      "ok": true
+     },
+     {
+      "t": "Make “AND” bigger so the lines match.",
+      "ok": false
+     },
+     {
+      "t": "Add more ornaments around it.",
+      "ok": false
+     },
+     {
+      "t": "Switch it to the Athletic typeface.",
+      "ok": false
+     }
+    ],
+    "why": "“AND” stranded on its own line and the all-caps setting make the headline hard to scan. The serif here also isn't Garamond. If a serif is used, it should be the brand's Garamond.",
+    "rule": "Typography › Respect hierarchy; Core typefaces",
+    "fix": "Two balanced lines, sentence case, brand serif."
+   },
+   {
+    "id": "c-blurb",
+    "kind": "fix",
+    "label": "Session description",
+    "tag": "Writing",
+    "rects": [
+     {
+      "x": 21.76,
+      "y": 22.96,
+      "w": 55.28,
+      "h": 7.96
+     }
+    ],
+    "q": "“Learn more about emotional regulation mechanisms, self care and enhancing study skills.” What's the best edit?",
+    "opts": [
+     {
+      "t": "Use plain words: “Learn how to manage stress and emotions, look after yourself, and study smarter.”",
+      "ok": true
+     },
+     {
+      "t": "Make it more technical so it sounds credible.",
+      "ok": false
+     },
+     {
+      "t": "Put it all in capitals.",
+      "ok": false
+     },
+     {
+      "t": "Cut it entirely.",
+      "ok": false
+     }
+    ],
+    "why": "“Emotional regulation mechanisms” is clinical jargon for a student audience. Plain, warm language invites people in. “Self care” also needs a hyphen: self-care.",
+    "rule": "Writing › Reduce jargon; Tone › Student communications",
+    "fix": "Plain-language description; “self-care”."
+   },
+   {
+    "id": "c-photos",
+    "kind": "good",
+    "label": "Facilitator photos",
+    "tag": "Photography",
+    "rects": [
+     {
+      "x": 4.44,
+      "y": 36.11,
+      "w": 30.0,
+      "h": 25.74
+     },
+     {
+      "x": 36.39,
+      "y": 35.65,
+      "w": 28.15,
+      "h": 27.31
+     },
+     {
+      "x": 68.06,
+      "y": 37.04,
+      "w": 27.78,
+      "h": 25.56
+     }
+    ],
+    "q": "Three facilitator portraits sit on colored panels. What's the verdict?",
+    "opts": [
+     {
+      "t": "On brand: real Ashesi staff, warm and approachable, on panels in brand colors. Keep this approach.",
+      "ok": true
+     },
+     {
+      "t": "Replace them with stock photos of counselors.",
+      "ok": false
+     },
+     {
+      "t": "Turn the photos black and white.",
+      "ok": false
+     },
+     {
+      "t": "Remove the photos to make room for more text.",
+      "ok": false
+     }
+    ],
+    "why": "People first. Students see the actual counselors they'd meet, which lowers the barrier to showing up. The panels use Ashesi Red, Turquoise and Apricot.",
+    "rule": "Photography › People first; Authentic representation",
+    "fix": "Done right. Real people, brand-colored panels."
+   },
+   {
+    "id": "c-names",
+    "kind": "fix",
+    "label": "Name tags",
+    "tag": "Consistency",
+    "rects": [
+     {
+      "x": 2.78,
+      "y": 61.85,
+      "w": 32.59,
+      "h": 10.19
+     },
+     {
+      "x": 35.0,
+      "y": 62.78,
+      "w": 30.0,
+      "h": 8.52
+     },
+     {
+      "x": 66.02,
+      "y": 62.59,
+      "w": 30.0,
+      "h": 8.52
+     }
+    ],
+    "q": "Compare the three name tags. What's inconsistent?",
+    "opts": [
+     {
+      "t": "Two use full names and one uses “Coach Evonne”. Give everyone their full name.",
+      "ok": true
+     },
+     {
+      "t": "Each tag should be a different color.",
+      "ok": false
+     },
+     {
+      "t": "The word FACILITATOR should be removed from all three.",
+      "ok": false
+     },
+     {
+      "t": "Nothing. They match.",
+      "ok": false
+     }
+    ],
+    "why": "Mixed naming makes one facilitator look less formal than the others. Full names for everyone keeps it consistent and respectful.",
+    "rule": "Writing › Maintain consistency",
+    "fix": "Full names for all three."
+   },
+   {
+    "id": "c-roles",
+    "kind": "good",
+    "label": "Facilitator roles",
+    "tag": "Writing",
+    "rects": [
+     {
+      "x": 7.04,
+      "y": 72.22,
+      "w": 86.67,
+      "h": 2.78
+     }
+    ],
+    "q": "Each facilitator has a role under their name. What's the verdict?",
+    "opts": [
+     {
+      "t": "Done right: roles tell students who they're meeting. Small polish: write out “Assistant Director, Wellness”.",
+      "ok": true
+     },
+     {
+      "t": "Remove the roles. Names are enough.",
+      "ok": false
+     },
+     {
+      "t": "Put the roles above the names in capitals.",
+      "ok": false
+     },
+     {
+      "t": "Replace the roles with phone numbers.",
+      "ok": false
+     }
+    ],
+    "why": "Roles build trust and answer “who is this?” at a glance. Several other posters in this library leave them out. Spelling out the abbreviation keeps it clean.",
+    "rule": "Writing › Be specific",
+    "fix": "Done right. Roles are listed."
+   },
+   {
+    "id": "c-typo",
+    "kind": "fix",
+    "label": "Co-facilitators line",
+    "tag": "Proofreading",
+    "rects": [
+     {
+      "x": 25.93,
+      "y": 75.56,
+      "w": 50.19,
+      "h": 7.59
+     }
+    ],
+    "q": "Read the line in the beige pill carefully. What's wrong?",
+    "opts": [
+     {
+      "t": "“Co-failitated” is misspelled. It should be “Co-facilitated”, and CCAPS should be spelled out.",
+      "ok": true
+     },
+     {
+      "t": "“Peer Supporters” should be in capitals.",
+      "ok": false
+     },
+     {
+      "t": "The pill should be red.",
+      "ok": false
+     },
+     {
+      "t": "Nothing. It's correct.",
+      "ok": false
+     }
+    ],
+    "why": "A typo in a line meant to credit people. The acronyms CCA and CCAPS also mean little to new students.",
+    "rule": "Writing › Be specific; Reduce jargon",
+    "fix": "Fix “Co-failitated”; spell out acronyms."
+   },
+   {
+    "id": "c-info",
+    "kind": "fix",
+    "label": "Date, time and place",
+    "tag": "Copy",
+    "rects": [
+     {
+      "x": 7.04,
+      "y": 85.93,
+      "w": 88.7,
+      "h": 6.48
+     }
+    ],
+    "q": "The info bar is easy to scan. What's the one thing to fix?",
+    "opts": [
+     {
+      "t": "Add the weekday and year, drop the “th” (for example, “Thursday, May 29, 2025”), and add an end time.",
+      "ok": true
+     },
+     {
+      "t": "Remove the icons.",
+      "ok": false
+     },
+     {
+      "t": "Write the time as “15:30 hrs”.",
+      "ok": false
+     },
+     {
+      "t": "Move the bar to the top of the poster.",
+      "ok": false
+     }
+    ],
+    "why": "Icons with short labels work well on a phone. But “May 29th” has no year or weekday, American style drops the ordinal, and with no end time students can't plan around it.",
+    "rule": "Writing › Be specific; American English",
+    "fix": "Full date with start and end time."
+   }
+  ],
+  "big": [
+   {
+    "id": "cb1",
+    "label": "Color count",
+    "tag": "Color",
+    "q": "Every color here comes from the Ashesi palette. Is the color use on brand?",
+    "opts": [
+     {
+      "t": "Partly. The colors are right, but there are about six of them. Pick three and repeat them.",
+      "ok": true
+     },
+     {
+      "t": "Yes. Any number of brand colors is fine.",
+      "ok": false
+     },
+     {
+      "t": "No. Only Ashesi Red and Black are allowed.",
+      "ok": false
+     },
+     {
+      "t": "Yes, as long as the background is beige.",
+      "ok": false
+     }
+    ],
+    "why": "Red, Turquoise, Apricot, Rajah, Slate and Beige are all in the palette, which is a good start. The rule of thumb is still no more than three in one piece.",
+    "rule": "Colors › Don't use more than three colors at a time",
+    "fix": "Right palette, too many colors."
+   },
+   {
+    "id": "cb2",
+    "label": "Typefaces",
+    "tag": "Typography",
+    "q": "How many typefaces can you count?",
+    "opts": [
+     {
+      "t": "Three: a display serif, Poppins, and a bold sans for the office name.",
+      "ok": true
+     },
+     {
+      "t": "One",
+      "ok": false
+     },
+     {
+      "t": "Two, which is the limit",
+      "ok": false
+     },
+     {
+      "t": "Five or more",
+      "ok": false
+     }
+    ],
+    "why": "Poppins carries the body well. The headline serif and the office-name font add two more. Limit a piece to one or two.",
+    "rule": "Typography › Be consistent within a piece",
+    "fix": "Cut to Poppins plus Garamond."
+   },
+   {
+    "id": "cb3",
+    "label": "Strengths",
+    "tag": "Overall",
+    "q": "What does this poster do best?",
+    "opts": [
+     {
+      "t": "It shows real people students can recognize, with logistics that are quick to scan.",
+      "ok": true
+     },
+     {
+      "t": "Its ornamental divider.",
+      "ok": false
+     },
+     {
+      "t": "Its use of capital letters.",
+      "ok": false
+     },
+     {
+      "t": "The amount of text.",
+      "ok": false
+     }
+    ],
+    "why": "Faces of the actual counselors build trust, and the icon bar answers when and where at a glance. Keep those strengths in any redesign.",
+    "rule": "Photography › People first; Mobile › Keep it simple",
+    "fix": "Real faces, clear logistics."
+   }
+  ],
+  "imageId": "",
+  "status": "live",
+  "featured": false,
+  "createdAt": "2026-10-29T16:10:00.000Z",
+  "updatedAt": "2026-10-29T16:10:00.000Z",
+  "id": "counselors-2025"
+ },
+ {
+  "title": "World Mental Health Day",
+  "context": "A portrait poster for an October 2025 speaker panel on accessing mental health support. It gets a lot right. Can you tell which parts?",
+  "image": "posters/wmhd.jpg",
+  "spots": [
+   {
+    "id": "w-logo",
+    "kind": "fix",
+    "label": "Ashesi logo",
+    "tag": "Logo",
+    "rects": [
+     {
+      "x": 4.67,
+      "y": 1.72,
+      "w": 23.54,
+      "h": 5.0
+     }
+    ],
+    "q": "The white logo sits on the light wall in the photo. What's the issue?",
+    "opts": [
+     {
+      "t": "Low contrast on a busy photo. Move it to the red band, or a calm, darker part of the image.",
+      "ok": true
+     },
+     {
+      "t": "It should be the Ashesi seal instead.",
+      "ok": false
+     },
+     {
+      "t": "It should be twice as big.",
+      "ok": false
+     },
+     {
+      "t": "No issue. White logos always work on photos.",
+      "ok": false
+     }
+    ],
+    "why": "Don't place the logo on busy or low-contrast backgrounds. Here the white mark fades into a pale wall next to a person. The red band below would show it cleanly.",
+    "rule": "Logo › Do not place on busy or low-contrast backgrounds",
+    "fix": "Move the logo to a clean, high-contrast area."
+   },
+   {
+    "id": "w-photo",
+    "kind": "good",
+    "label": "Photo",
+    "tag": "Photography",
+    "rects": [
+     {
+      "x": 0.0,
+      "y": 0.0,
+      "w": 100.0,
+      "h": 42.81
+     }
+    ],
+    "q": "What do you make of the photo?",
+    "opts": [
+     {
+      "t": "On brand: a real, candid moment of connection on campus, in natural light. Keep it.",
+      "ok": true
+     },
+     {
+      "t": "Replace it with a stock image of a brain.",
+      "ok": false
+     },
+     {
+      "t": "Add a red color filter to match the band.",
+      "ok": false
+     },
+     {
+      "t": "Crop it to a single face.",
+      "ok": false
+     }
+    ],
+    "why": "People first, authentic and warm. It shows support as something human, which suits the theme better than any icon could.",
+    "rule": "Photography › Authentic representation; Natural color",
+    "fix": "Done right. Candid, human, on campus."
+   },
+   {
+    "id": "w-title",
+    "kind": "good",
+    "label": "Headline",
+    "tag": "Color",
+    "rects": [
+     {
+      "x": 5.35,
+      "y": 43.36,
+      "w": 90.47,
+      "h": 7.58
+     }
+    ],
+    "q": "The headline sits in white on a red band. What's the verdict?",
+    "opts": [
+     {
+      "t": "On brand: Ashesi Red, strong contrast, and one calm headline that reads at a glance.",
+      "ok": true
+     },
+     {
+      "t": "It needs to be in all caps to stand out.",
+      "ok": false
+     },
+     {
+      "t": "The red should be purple for mental health.",
+      "ok": false
+     },
+     {
+      "t": "The headline should be smaller than the theme line.",
+      "ok": false
+     }
+    ],
+    "why": "High contrast, one clear message, and Ashesi Red as the anchor color. Setting it in Garamond would make it fully on brand.",
+    "rule": "Colors › Primary palette; The medium matters › Contrast is key",
+    "fix": "Done right. Clear, high-contrast headline."
+   },
+   {
+    "id": "w-theme",
+    "kind": "fix",
+    "label": "Theme line",
+    "tag": "Copy",
+    "rects": [
+     {
+      "x": 5.84,
+      "y": 53.12,
+      "w": 77.82,
+      "h": 13.44
+     }
+    ],
+    "q": "“Accessing Mental Health Support - Campus Mental Health during Crises and Emergencies.” What's the best fix?",
+    "opts": [
+     {
+      "t": "Use a colon and sentence case: “Accessing mental health support: campus mental health during crises and emergencies.”",
+      "ok": true
+     },
+     {
+      "t": "Put it all in capitals.",
+      "ok": false
+     },
+     {
+      "t": "Make it the headline.",
+      "ok": false
+     },
+     {
+      "t": "Add exclamation marks for urgency.",
+      "ok": false
+     }
+    ],
+    "why": "A spaced hyphen isn't a separator, and title case on a long line slows reading. A colon and sentence case read faster.",
+    "rule": "Writing › Clear, plain language",
+    "fix": "Colon and sentence case."
+   },
+   {
+    "id": "w-speakers",
+    "kind": "fix",
+    "label": "Speaker panel",
+    "tag": "Copy",
+    "rects": [
+     {
+      "x": 5.64,
+      "y": 69.38,
+      "w": 59.34,
+      "h": 15.62
+     }
+    ],
+    "q": "Look at the speaker panel. What's missing?",
+    "opts": [
+     {
+      "t": "Who the speakers are. Add each person's role, like “University Psychologist”.",
+      "ok": true
+     },
+     {
+      "t": "Their phone numbers.",
+      "ok": false
+     },
+     {
+      "t": "Bigger numbers before each name.",
+      "ok": false
+     },
+     {
+      "t": "Nothing. Names are enough.",
+      "ok": false
+     }
+    ],
+    "why": "Readers decide whether to come based on who's speaking, and a role line builds credibility. The numbering also suggests an order that doesn't matter. Plain lines work better.",
+    "rule": "Writing › Be specific",
+    "fix": "Add roles; drop the numbering."
+   },
+   {
+    "id": "w-qr",
+    "kind": "good",
+    "label": "Question QR code",
+    "tag": "Tone",
+    "rects": [
+     {
+      "x": 68.58,
+      "y": 66.56,
+      "w": 28.7,
+      "h": 18.2
+     }
+    ],
+    "q": "“Have questions? Scan here” with a QR code. What's the verdict?",
+    "opts": [
+     {
+      "t": "On brand: it gives readers a clear next step. Just say where it leads, and test it before printing.",
+      "ok": true
+     },
+     {
+      "t": "Remove it. QR codes are off-brand.",
+      "ok": false
+     },
+     {
+      "t": "Make it fill half the poster.",
+      "ok": false
+     },
+     {
+      "t": "Replace it with an email address in tiny type.",
+      "ok": false
+     }
+    ],
+    "why": "A clear path to ask for help is human-centered, especially on a mental health topic. Saying what's behind the code (a form, a counselor) makes people more likely to scan.",
+    "rule": "Tone › Human-centered; Writing › Lead with what matters",
+    "fix": "Done right. Add where it leads."
+   },
+   {
+    "id": "w-date",
+    "kind": "fix",
+    "label": "Event date",
+    "tag": "American English",
+    "rects": [
+     {
+      "x": 0.0,
+      "y": 87.34,
+      "w": 33.56,
+      "h": 10.16
+     }
+    ],
+    "q": "How should “10th October, 2025” be written?",
+    "opts": [
+     {
+      "t": "Friday, October 10, 2025",
+      "ok": true
+     },
+     {
+      "t": "10th October, 2025 (it's correct)",
+      "ok": false
+     },
+     {
+      "t": "10/10/25",
+      "ok": false
+     },
+     {
+      "t": "Oct. 10th 2025",
+      "ok": false
+     }
+    ],
+    "why": "American English puts the month first and drops the ordinal. The weekday helps people plan.",
+    "rule": "Typography › American English is used in all brand writing",
+    "fix": "Friday, October 10, 2025."
+   },
+   {
+    "id": "w-time",
+    "kind": "fix",
+    "label": "Event time",
+    "tag": "Consistency",
+    "rects": [
+     {
+      "x": 77.33,
+      "y": 87.34,
+      "w": 22.67,
+      "h": 10.16
+     }
+    ],
+    "q": "“4:00PM” and “6:00PM” are stacked on two lines. What's clearer?",
+    "opts": [
+     {
+      "t": "One range with an en dash: “4:00–6:00 p.m.”",
+      "ok": true
+     },
+     {
+      "t": "Keep two lines with no dash.",
+      "ok": false
+     },
+     {
+      "t": "Use “16:00 to 18:00 hrs”.",
+      "ok": false
+     },
+     {
+      "t": "Just “4PM”.",
+      "ok": false
+     }
+    ],
+    "why": "Two stacked times read like two separate events. One range with an en dash and a space before a.m./p.m. is clear and consistent.",
+    "rule": "Writing › Maintain consistency",
+    "fix": "4:00–6:00 p.m."
+   }
+  ],
+  "big": [
+   {
+    "id": "wb1",
+    "label": "Color count",
+    "tag": "Color",
+    "q": "Count the colors in the design, not the photo. Is it on brand?",
+    "opts": [
+     {
+      "t": "Yes: Ashesi Red, white and one warm accent. Restrained and on palette.",
+      "ok": true
+     },
+     {
+      "t": "No: it needs more colors to feel festive.",
+      "ok": false
+     },
+     {
+      "t": "No: red is too formal for a student event.",
+      "ok": false
+     },
+     {
+      "t": "Only if the red is replaced with purple.",
+      "ok": false
+     }
+    ],
+    "why": "Red, white and a single yellow accent stays within the three-color rule. The yellow is close to Icterine; matching it exactly (#e8e155) would make it spot on.",
+    "rule": "Colors › No more than three at a time",
+    "fix": "Done right. Three colors."
+   },
+   {
+    "id": "wb2",
+    "label": "Typefaces",
+    "tag": "Typography",
+    "q": "What would tighten the typography?",
+    "opts": [
+     {
+      "t": "Settle on two: Garamond for the headline, Poppins for everything else. The bottom bar adds a third face.",
+      "ok": true
+     },
+     {
+      "t": "Add a script font for warmth.",
+      "ok": false
+     },
+     {
+      "t": "Set everything in the headline serif.",
+      "ok": false
+     },
+     {
+      "t": "Use a different font for every line.",
+      "ok": false
+     }
+    ],
+    "why": "The headline serif, Poppins and the heavier face in the bottom bar make three. Two is the limit.",
+    "rule": "Typography › Limit designs to one or two typefaces",
+    "fix": "Two typefaces."
+   },
+   {
+    "id": "wb3",
+    "label": "Compared",
+    "tag": "Overall",
+    "q": "Compare this with the purple Mental Health Awareness poster. What does this one do better?",
+    "opts": [
+     {
+      "t": "It shows real people, stays on palette, and gives readers a way to ask for help.",
+      "ok": true
+     },
+     {
+      "t": "It uses more icons.",
+      "ok": false
+     },
+     {
+      "t": "It lists more sponsors.",
+      "ok": false
+     },
+     {
+      "t": "It uses more colors.",
+      "ok": false
+     }
+    ],
+    "why": "Same topic, very different result. Authentic photography, brand colors and a clear help path make this one feel unmistakably Ashesi.",
+    "rule": "Photography › People first; Tone › Human-centered",
+    "fix": "Real people, brand colors, help path."
+   }
+  ],
+  "imageId": "",
+  "status": "live",
+  "featured": false,
+  "createdAt": "2026-10-29T16:11:00.000Z",
+  "updatedAt": "2026-10-29T16:11:00.000Z",
+  "id": "wmhd-2025"
+ },
+ {
+  "title": "Masterclass: International Programs and Campus Cohesion",
+  "context": "A square social post for a February 2026 masterclass. This is the most on-brand poster in the library, so most of the areas are things to keep.",
+  "image": "posters/masterclass.jpg",
+  "spots": [
+   {
+    "id": "m-logo",
+    "kind": "good",
+    "label": "Ashesi logo",
+    "tag": "Logo",
+    "rects": [
+     {
+      "x": 7.87,
+      "y": 7.12,
+      "w": 28.24,
+      "h": 7.59
+     }
+    ],
+    "q": "What about the logo?",
+    "opts": [
+     {
+      "t": "On brand: the primary horizontal logo in its proper colors, with clear space on a calm background.",
+      "ok": true
+     },
+     {
+      "t": "It should be white.",
+      "ok": false
+     },
+     {
+      "t": "The office name should be added to it.",
+      "ok": false
+     },
+     {
+      "t": "It's too small. Make it fill the top.",
+      "ok": false
+     }
+    ],
+    "why": "Correct configuration, correct colors, a clean background and generous clear space. Nothing touches it.",
+    "rule": "Logo › Primary layouts; Clear space",
+    "fix": "Done right. Primary logo, used correctly."
+   },
+   {
+    "id": "m-title",
+    "kind": "good",
+    "label": "Headline",
+    "tag": "Lockups",
+    "rects": [
+     {
+      "x": 11.11,
+      "y": 20.11,
+      "w": 77.78,
+      "h": 11.01
+     }
+    ],
+    "q": "The office name is part of a Garamond headline, separate from the logo. What's the verdict?",
+    "opts": [
+     {
+      "t": "On brand: the office is named in the headline, not squeezed into an unapproved lockup.",
+      "ok": true
+     },
+     {
+      "t": "The office name should be locked up with the logo.",
+      "ok": false
+     },
+     {
+      "t": "It should be in all caps.",
+      "ok": false
+     },
+     {
+      "t": "It should be in Athletic.",
+      "ok": false
+     }
+    ],
+    "why": "The brand guidelines show “International Programs and Campus Cohesion” attached to the logo as a do-not example. This poster avoids that by naming the office in a Garamond headline in Ashesi Red.",
+    "rule": "Logo › Do not create unapproved lockups; Typography › Garamond",
+    "fix": "Done right. No improvised lockup."
+   },
+   {
+    "id": "m-blurb",
+    "kind": "fix",
+    "label": "Session description",
+    "tag": "Writing",
+    "rects": [
+     {
+      "x": 13.7,
+      "y": 32.73,
+      "w": 73.15,
+      "h": 9.96
+     }
+    ],
+    "q": "“FDE I Session focused on…” What's the problem?",
+    "opts": [
+     {
+      "t": "“FDE I” is internal shorthand. Spell it out, and darken the gray text so it reads on phone screens.",
+      "ok": true
+     },
+     {
+      "t": "It should be in capitals.",
+      "ok": false
+     },
+     {
+      "t": "It needs more adjectives.",
+      "ok": false
+     },
+     {
+      "t": "Nothing. Everyone knows FDE.",
+      "ok": false
+     }
+    ],
+    "why": "Acronyms shut out anyone outside the course. The thin gray text on beige is also low contrast, the weakest spot for phone readers.",
+    "rule": "Writing › Reduce jargon; The medium matters › Contrast is key",
+    "fix": "Spell out FDE; darker text."
+   },
+   {
+    "id": "m-date",
+    "kind": "fix",
+    "label": "Event date",
+    "tag": "American English",
+    "rects": [
+     {
+      "x": 13.43,
+      "y": 44.4,
+      "w": 36.3,
+      "h": 5.12
+     }
+    ],
+    "q": "How should the date be written?",
+    "opts": [
+     {
+      "t": "Friday, February 20, 2026",
+      "ok": true
+     },
+     {
+      "t": "20th February 2026 (correct as is)",
+      "ok": false
+     },
+     {
+      "t": "20/02/2026",
+      "ok": false
+     },
+     {
+      "t": "Feb 20th, 2026",
+      "ok": false
+     }
+    ],
+    "why": "American English puts the month first and drops the ordinal. The weekday helps people plan.",
+    "rule": "Typography › American English is used in all brand writing",
+    "fix": "Friday, February 20, 2026."
+   },
+   {
+    "id": "m-time",
+    "kind": "good",
+    "label": "Event time",
+    "tag": "Consistency",
+    "rects": [
+     {
+      "x": 52.31,
+      "y": 44.4,
+      "w": 36.11,
+      "h": 5.12
+     }
+    ],
+    "q": "“8:00 AM – 10:00 AM”. What's the verdict?",
+    "opts": [
+     {
+      "t": "Done right: one clear range with a proper dash and consistent formatting.",
+      "ok": true
+     },
+     {
+      "t": "It should be “8-10”.",
+      "ok": false
+     },
+     {
+      "t": "It should be in 24-hour time.",
+      "ok": false
+     },
+     {
+      "t": "It needs “o'clock”.",
+      "ok": false
+     }
+    ],
+    "why": "One range, one dash, consistent capitals: the consistency other posters miss. A house style might prefer “8:00–10:00 a.m.”, but this is clear.",
+    "rule": "Writing › Maintain consistency",
+    "fix": "Done right. Clear time range."
+   },
+   {
+    "id": "m-pattern",
+    "kind": "good",
+    "label": "Background pattern",
+    "tag": "Pattern",
+    "rects": [
+     {
+      "x": 0.0,
+      "y": 15.65,
+      "w": 10.65,
+      "h": 41.27
+     },
+     {
+      "x": 89.35,
+      "y": 31.31,
+      "w": 10.65,
+      "h": 25.62
+     }
+    ],
+    "q": "Look at the subtle circular texture in the background. What's the verdict?",
+    "opts": [
+     {
+      "t": "On brand: it adds texture quietly without competing with the message, as long as it's the official pattern file.",
+      "ok": true
+     },
+     {
+      "t": "It should be much bolder so people notice it.",
+      "ok": false
+     },
+     {
+      "t": "Patterns are never allowed on posters.",
+      "ok": false
+     },
+     {
+      "t": "It should be in bright colors.",
+      "ok": false
+     }
+    ],
+    "why": "The pattern should complement, not overpower, and works best with restraint. This is that.",
+    "rule": "Ashesi Pattern › Complement, not overpower",
+    "fix": "Done right. Pattern used with restraint."
+   },
+   {
+    "id": "m-photos",
+    "kind": "good",
+    "label": "Facilitator photos",
+    "tag": "Photography",
+    "rects": [
+     {
+      "x": 27.78,
+      "y": 61.2,
+      "w": 49.26,
+      "h": 38.8
+     }
+    ],
+    "q": "The facilitators are cut out and placed over the slate band. What's the verdict?",
+    "opts": [
+     {
+      "t": "On brand: real people with warm expressions and natural color, leading the composition.",
+      "ok": true
+     },
+     {
+      "t": "Replace them with illustrated avatars.",
+      "ok": false
+     },
+     {
+      "t": "Shrink them to small circles.",
+      "ok": false
+     },
+     {
+      "t": "Add a heavy color filter.",
+      "ok": false
+     }
+    ],
+    "why": "People first, true-to-life color, no heavy edits. The photos give the session a human face.",
+    "rule": "Photography › People first; Natural color",
+    "fix": "Done right. Real, warm portraits."
+   },
+   {
+    "id": "m-names",
+    "kind": "fix",
+    "label": "Facilitator names",
+    "tag": "Copy",
+    "rects": [
+     {
+      "x": 6.48,
+      "y": 82.73,
+      "w": 26.11,
+      "h": 7.59
+     },
+     {
+      "x": 72.96,
+      "y": 83.3,
+      "w": 21.67,
+      "h": 7.02
+     }
+    ],
+    "q": "The facilitators are named. What's missing?",
+    "opts": [
+     {
+      "t": "Their roles, so readers know why to listen to them.",
+      "ok": true
+     },
+     {
+      "t": "Their middle names.",
+      "ok": false
+     },
+     {
+      "t": "Bigger arrows.",
+      "ok": false
+     },
+     {
+      "t": "Nothing at all.",
+      "ok": false
+     }
+    ],
+    "why": "A name with no role assumes readers already know who these people are. One line each, such as their title in the office, fixes it.",
+    "rule": "Writing › Be specific",
+    "fix": "Add each facilitator's role."
+   }
+  ],
+  "big": [
+   {
+    "id": "mb1",
+    "label": "Why it works",
+    "tag": "Overall",
+    "q": "What makes this the most on-brand poster in the set?",
+    "opts": [
+     {
+      "t": "The correct logo, only Garamond and Poppins, Ashesi Red on beige, real photos and clear logistics.",
+      "ok": true
+     },
+     {
+      "t": "It has the most text.",
+      "ok": false
+     },
+     {
+      "t": "It uses the most colors.",
+      "ok": false
+     },
+     {
+      "t": "It has a QR code.",
+      "ok": false
+     }
+    ],
+    "why": "Every core decision follows the guidelines. The fixes left are copy-level: an acronym, a date format and missing roles.",
+    "rule": "Visual identity; Typography; Photography",
+    "fix": "Strong foundation; fix the copy."
+   },
+   {
+    "id": "mb2",
+    "label": "Color count",
+    "tag": "Color",
+    "q": "How many colors does the design use, not counting the photos?",
+    "opts": [
+     {
+      "t": "About four: Beige, Ashesi Red, Slate and the Rajah tag. Making the tag red would bring it to three.",
+      "ok": true
+     },
+     {
+      "t": "One",
+      "ok": false
+     },
+     {
+      "t": "Two",
+      "ok": false
+     },
+     {
+      "t": "Seven",
+      "ok": false
+     }
+    ],
+    "why": "Close to the rule of thumb. One small swap brings it in line.",
+    "rule": "Colors › No more than three at a time",
+    "fix": "Close: trim to three."
+   },
+   {
+    "id": "mb3",
+    "label": "Formality",
+    "tag": "Color",
+    "q": "Is the palette right for an academic masterclass?",
+    "opts": [
+     {
+      "t": "Yes: red, slate and beige lean formal, which suits an academic session.",
+      "ok": true
+     },
+     {
+      "t": "No: it should use bright secondary colors.",
+      "ok": false
+     },
+     {
+      "t": "No: formal pieces must be black and white only.",
+      "ok": false
+     },
+     {
+      "t": "Yes, but only because it's square.",
+      "ok": false
+     }
+    ],
+    "why": "The color usage chart pairs formal materials with Ashesi Red, Black and deeper tones. This matches the context.",
+    "rule": "Colors › Color usage chart",
+    "fix": "Done right. Formal palette for a formal session."
+   }
+  ],
+  "imageId": "",
+  "status": "live",
+  "featured": false,
+  "createdAt": "2026-10-29T16:12:00.000Z",
+  "updatedAt": "2026-10-29T16:12:00.000Z",
+  "id": "masterclass-2026"
+ },
+ {
+  "title": "Cybersecurity Awareness Month",
+  "context": "An IT Department poster for October 2026. It's bold and student-friendly, but is it Ashesi?",
+  "image": "posters/cyber.jpg",
+  "spots": [
+   {
+    "id": "y-logo",
+    "kind": "fix",
+    "label": "Missing logo",
+    "tag": "Logo",
+    "rects": [
+     {
+      "x": 68.28,
+      "y": 7.02,
+      "w": 20.23,
+      "h": 3.38
+     }
+    ],
+    "q": "There's no Ashesi logo, only “ASHESI UNIVERSITY IT DEPARTMENT” in type. What's the fix?",
+    "opts": [
+     {
+      "t": "Use the IT Department's approved lockup: the horizontal logo with the department name.",
+      "ok": true
+     },
+     {
+      "t": "Typing the university name is enough.",
+      "ok": false
+     },
+     {
+      "t": "Add the Ashesi seal instead.",
+      "ok": false
+     },
+     {
+      "t": "Draw a new logo for the IT Department.",
+      "ok": false
+     }
+    ],
+    "why": "Without the logo, nothing marks this as Ashesi at a glance. Official units like IT should use their approved lockup. New ones are requested from the University Communications Office.",
+    "rule": "Lockups › Always use the approved lockup structure",
+    "fix": "Add the IT Department lockup."
+   },
+   {
+    "id": "y-head",
+    "kind": "fix",
+    "label": "Headline",
+    "tag": "Typography",
+    "rects": [
+     {
+      "x": 4.91,
+      "y": 6.65,
+      "w": 51.59,
+      "h": 13.72
+     }
+    ],
+    "q": "The headline is set in a tightly squeezed sans serif. What's the issue?",
+    "opts": [
+     {
+      "t": "It isn't a brand typeface, and the letters collide. Set it in Poppins Bold with normal spacing.",
+      "ok": true
+     },
+     {
+      "t": "It needs to be even tighter.",
+      "ok": false
+     },
+     {
+      "t": "It should be in the brush font.",
+      "ok": false
+     },
+     {
+      "t": "Nothing. Tight type looks modern.",
+      "ok": false
+     }
+    ],
+    "why": "Letters in CYBERSECURITY touch and merge, which hurts legibility. Poppins is the brand's student-facing face and would keep the bold look.",
+    "rule": "Typography › Core typefaces; Choose clarity first",
+    "fix": "Poppins Bold, normal spacing."
+   },
+   {
+    "id": "y-month",
+    "kind": "good",
+    "label": "Month and year",
+    "tag": "Copy",
+    "rects": [
+     {
+      "x": 68.28,
+      "y": 12.73,
+      "w": 19.87,
+      "h": 5.98
+     }
+    ],
+    "q": "“October 2026” in the top right. What's the verdict?",
+    "opts": [
+     {
+      "t": "Done right: the timeframe is big, clear and complete, with month and year.",
+      "ok": true
+     },
+     {
+      "t": "It should say “Oct.” to save space.",
+      "ok": false
+     },
+     {
+      "t": "It should be in the brush font.",
+      "ok": false
+     },
+     {
+      "t": "Remove it. The headline already says “Month”.",
+      "ok": false
+     }
+    ],
+    "why": "Readers know at a glance when this runs. Compare the counselors poster, which left off the year.",
+    "rule": "Writing › Be specific: timeframes",
+    "fix": "Done right. Clear timeframe."
+   },
+   {
+    "id": "y-typo",
+    "kind": "fix",
+    "label": "Day labels",
+    "tag": "Proofreading",
+    "rects": [
+     {
+      "x": 26.59,
+      "y": 28.33,
+      "w": 56.65,
+      "h": 7.8
+     }
+    ],
+    "q": "Read the first day label carefully.",
+    "opts": [
+     {
+      "t": "“THURDAYS” is missing an S. It should be “Thursdays”.",
+      "ok": true
+     },
+     {
+      "t": "“TUESDAYS” should be singular.",
+      "ok": false
+     },
+     {
+      "t": "The ampersand should be “and”.",
+      "ok": false
+     },
+     {
+      "t": "Nothing. It's correct.",
+      "ok": false
+     }
+    ],
+    "why": "A typo in large display type is the first thing people notice.",
+    "rule": "Writing › Be specific and accurate",
+    "fix": "Fix “Thursdays”."
+   },
+   {
+    "id": "y-script",
+    "kind": "fix",
+    "label": "Session names",
+    "tag": "Typography",
+    "rects": [
+     {
+      "x": 29.26,
+      "y": 37.68,
+      "w": 26.37,
+      "h": 4.16
+     },
+     {
+      "x": 20.59,
+      "y": 56.24,
+      "w": 36.49,
+      "h": 3.53
+     },
+     {
+      "x": 50.58,
+      "y": 77.81,
+      "w": 40.46,
+      "h": 3.79
+     }
+    ],
+    "q": "The session names are in thin white handwriting on light blue. What's the problem?",
+    "opts": [
+     {
+      "t": "Low contrast and a hard-to-read script. Use Poppins in a dark color so the sessions stand out.",
+      "ok": true
+     },
+     {
+      "t": "They should be even thinner.",
+      "ok": false
+     },
+     {
+      "t": "They should be in an all-caps script.",
+      "ok": false
+     },
+     {
+      "t": "Nothing. Handwriting feels friendly.",
+      "ok": false
+     }
+    ],
+    "why": "These are the most important words on the poster, and they're the hardest to read. White on Sky Blue is low contrast, and the script adds yet another typeface.",
+    "rule": "The medium matters › Contrast is key; Typography",
+    "fix": "Poppins, in a dark color."
+   },
+   {
+    "id": "y-arrow",
+    "kind": "good",
+    "label": "Top arrow",
+    "tag": "Layout",
+    "rects": [
+     {
+      "x": 7.23,
+      "y": 26.25,
+      "w": 18.64,
+      "h": 18.35
+     }
+    ],
+    "q": "What about the big brush arrow at the top left?",
+    "opts": [
+     {
+      "t": "It works: it leads the eye into the schedule. Decoration earns its place when it guides the reader.",
+      "ok": true
+     },
+     {
+      "t": "Add five more arrows.",
+      "ok": false
+     },
+     {
+      "t": "Make it red.",
+      "ok": false
+     },
+     {
+      "t": "It's off-brand by definition. Remove it.",
+      "ok": false
+     }
+    ],
+    "why": "Unlike the asterisk and circle, this arrow shows readers where to start. It's a good example of decoration with a purpose.",
+    "rule": "The medium matters › Think bold, not busy",
+    "fix": "Done right. Decoration with a job."
+   },
+   {
+    "id": "y-doodles",
+    "kind": "fix",
+    "label": "Asterisk and circle",
+    "tag": "Layout",
+    "rects": [
+     {
+      "x": 2.89,
+      "y": 58.99,
+      "w": 44.8,
+      "h": 23.75
+     },
+     {
+      "x": 28.9,
+      "y": 82.74,
+      "w": 17.49,
+      "h": 10.55
+     }
+    ],
+    "q": "What about the asterisk and the circle near the bottom?",
+    "opts": [
+     {
+      "t": "They add clutter with no job. Remove them and give the Friday session room to breathe.",
+      "ok": true
+     },
+     {
+      "t": "Make them bigger.",
+      "ok": false
+     },
+     {
+      "t": "Add more shapes for balance.",
+      "ok": false
+     },
+     {
+      "t": "Color them red.",
+      "ok": false
+     }
+    ],
+    "why": "They cover part of the Friday block and lead nowhere. Keep decoration that guides; cut decoration that competes.",
+    "rule": "Keep it simple; Be generous with space",
+    "fix": "Remove the doodles."
+   },
+   {
+    "id": "y-footer",
+    "kind": "fix",
+    "label": "Footer notes",
+    "tag": "Copy",
+    "rects": [
+     {
+      "x": 43.35,
+      "y": 95.01,
+      "w": 14.81,
+      "h": 2.08
+     },
+     {
+      "x": 74.28,
+      "y": 94.7,
+      "w": 19.29,
+      "h": 3.95
+     }
+    ],
+    "q": "“Prizes to be won!” and the Cyber Help Hub location are tiny at the bottom. What's the fix?",
+    "opts": [
+     {
+      "t": "Bring up the key details, where and when each session happens and how to win prizes, in readable type near the schedule.",
+      "ok": true
+     },
+     {
+      "t": "Make them even smaller to keep it clean.",
+      "ok": false
+     },
+     {
+      "t": "Move them to the back of the poster.",
+      "ok": false
+     },
+     {
+      "t": "Delete them.",
+      "ok": false
+     }
+    ],
+    "why": "The location is the most practical detail here and it's buried. “Will be conducted” is also stiff. “Find the Cyber Help Hub at the Student Hangout, all day” is warmer and clearer.",
+    "rule": "Writing › Lead with what matters; Clear, plain language",
+    "fix": "Bring logistics up, in plain words."
+   }
+  ],
+  "big": [
+   {
+    "id": "yb1",
+    "label": "Color",
+    "tag": "Color",
+    "q": "Every color here is in the Ashesi palette: Beige, Turquoise, Sky Blue and red. Is the color use on brand?",
+    "opts": [
+     {
+      "t": "Mostly: right palette, and a casual mix that suits students. Four colors is one over the guide, so drop one.",
+      "ok": true
+     },
+     {
+      "t": "No: IT posters must use red and black.",
+      "ok": false
+     },
+     {
+      "t": "Yes: there's no limit.",
+      "ok": false
+     },
+     {
+      "t": "No: beige isn't a brand color.",
+      "ok": false
+     }
+    ],
+    "why": "Good instincts. Student-facing pieces can lean on secondary colors. Trimming to three would tighten it.",
+    "rule": "Colors › Color usage chart; No more than three",
+    "fix": "Right palette; one color too many."
+   },
+   {
+    "id": "yb2",
+    "label": "Typefaces",
+    "tag": "Typography",
+    "q": "How many typefaces are there, and are they brand faces?",
+    "opts": [
+     {
+      "t": "Three, and none of them are brand faces: a condensed sans, a brush display and a handwriting script.",
+      "ok": true
+     },
+     {
+      "t": "One brand face",
+      "ok": false
+     },
+     {
+      "t": "Two, which is fine",
+      "ok": false
+     },
+     {
+      "t": "Three, all from the brand",
+      "ok": false
+     }
+    ],
+    "why": "The energy is great, but the type is off-system. Poppins can carry the same boldness.",
+    "rule": "Typography › Core typefaces; One or two per piece",
+    "fix": "Switch to Poppins."
+   },
+   {
+    "id": "yb3",
+    "label": "Missing info",
+    "tag": "Content",
+    "q": "What would students still need to know to actually attend?",
+    "opts": [
+     {
+      "t": "Times and places for each session, and how to sign up or win prizes.",
+      "ok": true
+     },
+     {
+      "t": "The history of cybersecurity.",
+      "ok": false
+     },
+     {
+      "t": "A list of IT staff phone extensions.",
+      "ok": false
+     },
+     {
+      "t": "Nothing. It's complete.",
+      "ok": false
+     }
+    ],
+    "why": "A schedule without times or places leaves readers guessing. Lead with what matters.",
+    "rule": "Writing › Lead with what matters",
+    "fix": "Add times, places and sign-up."
+   }
+  ],
+  "imageId": "",
+  "status": "live",
+  "featured": false,
+  "createdAt": "2026-10-29T16:13:00.000Z",
+  "updatedAt": "2026-10-29T16:13:00.000Z",
+  "id": "cyber-2026"
+ }
+]

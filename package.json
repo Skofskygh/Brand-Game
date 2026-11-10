@@ -1,0 +1,12 @@
+{
+  "name": "ashesi-fix-the-poster",
+  "private": true,
+  "description": "Fix the Poster: Ashesi brand training game with staff sign-in.",
+  "scripts": {
+    "dev": "node scripts/dev-server.js"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^11.1.9"
+  },
+  "engines": { "node": ">=20" }
+}
